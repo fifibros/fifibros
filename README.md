@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fifibros
 - 👀 I’m interested in Ruby on Rails.
-- 🌱 I’m currently learning Python and keen to learn JavaScript as well as Elixir.
+- 🌱 I’m currently learning Python and keen to learn JavaScript and Elixir.
 - 💞️ I’m looking to collaborate on Ruby on Rails and Python projects!
 - 📫 How to reach me:
      LinkedIn: https://www.linkedin.com/in/fiona-brosnan/
